@@ -12,4 +12,4 @@ Project Topic _ Age-friendly city, Digital transformation, Data Fabric, ...
 
 Appearance matter 
 
-방문객중심으로 생각하기
+방문객(개발자/사용자)중심으로 생각하기
