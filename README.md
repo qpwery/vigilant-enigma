@@ -13,3 +13,23 @@ in 2021.03.08
 Appearance matter 
 
 -> 방문객(개발자/사용자)중심으로 생각하기
+
+
+
+
+#Header 1
+This is an R Markdown document.
+
+*italics
+**bold
+
+Create lists with a dash:
+-Item 1
+-Item 2
+-Item 3
+
+```
+Use back ticks to
+create a block of code
+```
+
