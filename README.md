@@ -22,12 +22,14 @@ in 2021.03.08
 This is an R Markdown document.
 
 *italics*
+
 **bold**
 
 Create lists with a dash:
--Item 1
--Item 2
--Item 3
+
+- Item 1
+- Item 2
+- Item 3
 
 ```
 Use back ticks to
