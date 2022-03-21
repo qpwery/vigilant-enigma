@@ -17,11 +17,12 @@ in 2021.03.08
 
 
 
-#Header 1
+# Header 1
+
 This is an R Markdown document.
 
-*italics
-**bold
+*italics*
+**bold**
 
 Create lists with a dash:
 -Item 1
